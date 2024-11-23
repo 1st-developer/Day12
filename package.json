@@ -1,0 +1,12 @@
+{
+  "name": "buitifull-tailwindcss-design",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "npx tailwindcss -i ./src/input.css -o ./file/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
